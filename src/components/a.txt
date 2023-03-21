@@ -1,0 +1,7 @@
+key = "business"
+key = "entertainment"
+key = "general"
+key = "health"
+key = "science"
+key = "sports"
+key = "technology"
